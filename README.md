@@ -2,6 +2,18 @@
   <h1>Weather Forecast Application</h1>
 </div>
 
+<p align="center">
+    <img src="https://img.shields.io/github/contributors/saboye/Weather-Forcasting-App?color=blue&logo=github&style=for-the-badge" alt="GitHub contributors" />
+    <img src="https://img.shields.io/github/forks/saboye/Weather-Forcasting-App?logo=github&style=for-the-badge" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/issues-raw/saboye/Weather-Forcasting-App?style=for-the-badge" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/license/saboye/Weather-Forcasting-App?style=for-the-badge" alt="GitHub license" />
+    <img src="https://img.shields.io/github/last-commit/saboye/Weather-Forcasting-App?style=for-the-badge" alt="GitHub last commit" />
+    <img src="https://img.shields.io/badge/streamlit-1.0.0-blue?style=for-the-badge&logo=streamlit" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/requests-2.25.1-blue?style=for-the-badge&logo=requests" alt="Requests" />
+    <img src="https://img.shields.io/badge/pandas-1.3.5-blue?style=for-the-badge&logo=pandas" alt="Pandas" />
+</p>
+
+
 This repository contains a simple weather forecast application built using Python, Streamlit, and the OpenWeatherMap API. The application allows users to get current weather data by city name or zip code and displays the weather information in a user-friendly format.
 
 ## Contents
