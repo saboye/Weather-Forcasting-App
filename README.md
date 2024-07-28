@@ -1,4 +1,6 @@
-# Weather Forecast Application
+<div align="center">
+  <h1>Weather Forecast Application</h1>
+</div>
 
 This repository contains a simple weather forecast application built using Python, Streamlit, and the OpenWeatherMap API. The application allows users to get current weather data by city name or zip code and displays the weather information in a user-friendly format.
 
